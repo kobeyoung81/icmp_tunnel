@@ -1,7 +1,7 @@
 /*
 Ping
 */
-package main
+package icmp_tunnel
 
 import (
 	"bytes"
